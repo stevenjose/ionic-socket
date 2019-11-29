@@ -1,5 +1,7 @@
 {
   "name": "ionic-socket",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
